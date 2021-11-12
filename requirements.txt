@@ -17,4 +17,3 @@ semantic-version==2.8.5
 setuptools-rust==0.11.6
 sqlparse==0.4.1
 toml==0.10.2
-Cmas
